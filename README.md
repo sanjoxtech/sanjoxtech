@@ -3,7 +3,7 @@
 ### Engineer · Builder · AI Tinkerer
 > *Build. Solve. Create Impact.*
 
-📍 Delhi, India &nbsp;|&nbsp; 🛠️ Building in public &nbsp;|&nbsp; 🟢 **Open to work** — Eng Leadership / Staff+ / Founding
+📍 Delhi, India &nbsp;|&nbsp; 🛠️ Building in public &nbsp;|&nbsp; 🟢 **Open to tinker** — collabs, hard problems & the right team
 
 I tinker with AI agents and ship the tools I wish existed. Right now I'm deep in **loop engineering** — building systems that prompt agents so they run themselves. 8+ years building and scaling cloud-native platforms; these days you'll find me in the agent tinkering space turning ideas into working code.
 
