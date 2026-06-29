@@ -1,31 +1,31 @@
 # Hi, I'm Sanjay 👋
 
-📍 Singapore 🇸🇬 ↔ India 🇮🇳 &nbsp;|&nbsp; ⚙️ Head of Engineering @ **Drive lah** &nbsp;|&nbsp; 🚀 Builder, shipping in public
+### Engineer · Builder · AI Tinkerer
+> *Build. Solve. Create Impact.*
 
-Engineering leader who likes the hard problems — scaling cloud-native platforms, leading teams, and lately **loop engineering**: building systems that prompt AI agents so they run themselves.
+📍 Delhi, India &nbsp;|&nbsp; 🛠️ Building in public &nbsp;|&nbsp; 🟢 **Open to work** — Eng Leadership / Staff+ / Founding
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+I tinker with AI agents and ship the tools I wish existed. Right now I'm deep in **loop engineering** — building systems that prompt agents so they run themselves. 8+ years building and scaling cloud-native platforms; these days you'll find me in the agent tinkering space turning ideas into working code.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Agents-5eead4?style=flat-square&logo=anthropic&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-5eead4?style=flat-square&logo=anthropic&logoColor=black)
 
-## Start Here
+## 🛠️ Start Here
 
 - 🖋️ **[penprint](https://github.com/sanjoxtech/penprint)** — a deterministic voice gate for writing. Turns "does this sound like me?" into a number, with **no LLM**. Lets an AI writing loop converge like a code test-loop.
-- 🌐 **[sanjox.tech](https://sanjox.tech)** — my portfolio: what I build, lead, and ship.
+- 🌐 **[sanjox.tech](https://sanjox.tech)** — my portfolio & what I'm building.
 
-## What I'm building & exploring
+## 🔬 What I'm tinkering with
 
-- **Loop engineering** — designing systems that prompt agents (deterministic gates, adversarial loops, parallel agents in git worktrees) so they run unattended.
-- **Cloud-native at scale** — AWS serverless, event-driven platforms handling 1M+ daily requests at 99.99% uptime.
-- **AI for developer productivity** — putting agents to work on real engineering, safely.
+- **Loop engineering** — agents that prompt themselves: deterministic gates, adversarial builder/judge loops, parallel agents in git worktrees, run-while-you-sleep automation.
+- **Agent tooling** — small, sharp, open-source tools that make AI agents actually useful.
+- **Cloud-native at scale** — event-driven AWS serverless platforms (the day-job craft I bring to the tinkering).
 
-## Find me
+## 📬 Find me
 
 - 🌐 [sanjox.tech](https://sanjox.tech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjoxtech/)
@@ -33,4 +33,4 @@ Engineering leader who likes the hard problems — scaling cloud-native platform
 
 ---
 
-<sub>⚡ Always shipping. Currently obsessed with making agents run themselves.</sub>
+<sub>⚡ Building in public. Currently obsessed with making agents run themselves.</sub>
