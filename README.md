@@ -29,7 +29,7 @@ I tinker with AI agents and ship the tools I wish existed. Right now I'm deep in
 
 - 🌐 [sanjox.tech](https://sanjox.tech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjoxtech/)
-- ✉️ samaipro33@gmail.com
+- ✉️ sanjox.tech@gmail.com
 
 ---
 
