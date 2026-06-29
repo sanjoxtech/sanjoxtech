@@ -16,7 +16,8 @@ I tinker with AI agents and ship the tools I wish existed. Right now I'm deep in
 
 ## 🛠️ Start Here
 
-- 🖋️ **[penprint](https://github.com/sanjoxtech/penprint)** — a deterministic voice gate for writing. Turns "does this sound like me?" into a number, with **no LLM**. Lets an AI writing loop converge like a code test-loop.
+- 🖋️ **[penprint](https://github.com/sanjoxtech/penprint)** — a deterministic voice gate for writing. Turns "does this sound like me?" into a number, with **no LLM**. &nbsp;`pip install penprint`
+- 🪈 **[pipper](https://github.com/sanjoxtech/pipper)** — drive Claude Code **headlessly** in a tmux session; script & automate the `claude` CLI. &nbsp;`pip install pipper-cli`
 - 🌐 **[sanjox.tech](https://sanjox.tech)** — my portfolio & what I'm building.
 
 ## 🔬 What I'm tinkering with
