@@ -12,13 +12,7 @@ My work combines technical strategy and hands-on architecture with hiring, perfo
 
 A connected AI systems program: build and adapt models, serve them efficiently, run useful tasks, and use measured failures to guide the next improvement.
 
-```mermaid
-flowchart LR
-    M[Model Foundry<br/>Model lifecycle and adaptation] --> I[InferStack<br/>Serving and inference experiments]
-    I --> F[FactoryOS<br/>Durable agent execution and evaluation]
-    F --> E[Trajectories and failure evidence]
-    E --> M
-```
+![Connected model, inference and agent systems](assets/model-systems.svg)
 
 | Project | Engineering focus | Current scope |
 | --- | --- | --- |
